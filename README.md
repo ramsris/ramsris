@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+A self-driven professional with 15 years of comprehensive experience in the full project lifecycle of enterprise applications. 
+
+I’m currently learning AI technologies and Cloud entusiast
+
 <!--
 **ramsris/ramsris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
